@@ -8,3 +8,4 @@ CREATE TABLE IF NOT EXISTS report_logs (
     data_summary JSON,
     generated_by VARCHAR(100)
 );
+update 
